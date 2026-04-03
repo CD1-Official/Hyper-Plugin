@@ -1,4 +1,4 @@
-# The Hyper Plugin
+# Hyper Scoreboard
 A lightweight, customizable, PlaceholderAPI-powered scoreboard plugin for modern Spigot/Paper servers.
 
 Hyper Scoreboard is built for performance, clean code, and easy customization.  
@@ -32,6 +32,19 @@ It supports live placeholders, reload commands, version checking, and a modular 
 
 ---
 
+## 📎 Required Papi downloads
+
+
+Make sure Placeholder API is installed and on the latest version:
+/papi ecloud install Player
+/papi ecloud install Server
+/papi ecloud install Statistic
+/papi ecloud install Vault
+/papi ecloud install LuckPerms
+/papi reload
+
+---
+
 ## 🧾 Commands
 
 | Command | Description |
@@ -40,7 +53,18 @@ It supports live placeholders, reload commands, version checking, and a modular 
 | `/hyper scoreboard reload` | Reloads scoreboard + reapplies to all players |
 | `/hyper version` | Shows current version + checks for updates |
 
+
 ---
 
-## 🔧 Configuration (`config.yml`)
+## 🤝 Dependencies
+
+- PlaceholderAPI (soft-depend)
+- Vault (optional)
+- LuckPerms (optional)
+
+---
+
+## ❤️ Credits
+
+Developed by ClaretDigit1  
 
