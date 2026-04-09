@@ -36,12 +36,12 @@ It supports live placeholders, reload commands, version checking, and a modular 
 
 
 Make sure Placeholder API is installed and on the latest version:
-/papi ecloud install Player
-/papi ecloud install Server
-/papi ecloud install Statistic
-/papi ecloud install Vault
-/papi ecloud install LuckPerms
-/papi reload
+- /papi ecloud install Player
+- /papi ecloud install Server
+- /papi ecloud install Statistic
+- /papi ecloud install Vault
+- /papi ecloud install LuckPerms
+- /papi reload
 
 ---
 
